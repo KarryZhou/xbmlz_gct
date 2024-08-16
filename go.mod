@@ -1,4 +1,4 @@
-module github.com/xbmlz/gct
+module github.com/KarryZhou/xbmlz_gct
 
 go 1.18
 
